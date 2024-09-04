@@ -25,9 +25,16 @@ Select New Group at the top of the screen.
 <img width="1440" alt="Screenshot 2024-09-04 at 1 21 09 AM" src="https://github.com/user-attachments/assets/8c465509-7190-4e73-a119-ae9e95864d0b">
 
 
-For Group Type please select Security as this group is for access to Azure resources not for collaboration between users with Microsoft 365, for the Group name you could call it Virtual Machine Login Users,, for the description you could use allows users to log in to virtual machines, for the owners and members you can leave that blank, owners of groups have full permissions to delete the group, add users, remove users, elevate other users to owners as well, select create at the bottom of the screen.
+For Group Type please select Security as this group is for access to Azure resources not for collaboration between users with Microsoft 365, for the Group name you could call it Virtual Machine Login Users,, for the description you could use allows users to log in to virtual machines, for the owners and members you can leave that blank, select create at the bottom of the screen. Owners of groups have full permissions to delete the group, add users, remove users, elevate other users to owners as well, select create at the bottom of the screen.
 
 <img width="1440" alt="Screenshot 2024-09-04 at 1 40 11 AM" src="https://github.com/user-attachments/assets/bbfca510-7b64-43a7-a02a-8c16d21e8e45">
+
+You would recieve a notification with a green tick mark once the group has been successfully created, please resfresh the page and the newly created group should appear on the screen.
+
+<img width="1440" alt="Screenshot 2024-09-04 at 1 44 34 AM" src="https://github.com/user-attachments/assets/cb2aab85-7ddf-4e9a-81d2-c450e1722830">
+
+
+
 
 
 
