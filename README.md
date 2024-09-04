@@ -77,6 +77,22 @@ You would have to name the key pair, for the inbound port rules i will be choosi
 
 <img width="1439" alt="Screenshot 2024-09-04 at 3 13 41 AM" src="https://github.com/user-attachments/assets/797bfe4c-139a-403a-9dd7-fe82793897cf">
 
+<img width="1378" alt="Screenshot 2024-09-04 at 3 14 37 AM" src="https://github.com/user-attachments/assets/3f20b672-b4f2-4fbd-8915-657299f5a48a">
+
+<img width="1440" alt="Screenshot 2024-09-04 at 3 15 44 AM" src="https://github.com/user-attachments/assets/d40fca5e-fd06-47bf-8064-b685fd348626">
+
+<img width="1440" alt="Screenshot 2024-09-04 at 3 16 35 AM" src="https://github.com/user-attachments/assets/7227ddd0-286a-46f3-8a6a-527f396f3158">
+<img width="1440" alt="Screenshot 2024-09-04 at 3 17 15 AM" src="https://github.com/user-attachments/assets/33468161-ff66-4085-af8d-16cd0acef6e3">
+<img width="1440" alt="Screenshot 2024-09-04 at 3 19 19 AM" src="https://github.com/user-attachments/assets/303ae5d3-07b1-4671-8dec-2095da20a5d2">
+<img width="1440" alt="Screenshot 2024-09-04 at 3 20 05 AM" src="https://github.com/user-attachments/assets/cdea2e55-eec1-4f96-81f3-fed611b9cb97">
+<img width="1440" alt="Screenshot 2024-09-04 at 3 21 33 AM" src="https://github.com/user-attachments/assets/131ef8ff-d335-43c3-8ccf-f1f566e47d97">
+
+<img width="1440" alt="Screenshot 2024-09-04 at 3 22 26 AM" src="https://github.com/user-attachments/assets/35aa5c0b-97a1-4987-b9fe-ce03278c442e">
+
+
+
+
+
 
 
 
