@@ -35,7 +35,29 @@ You would recieve a notification with a green tick mark once the group has been 
 
 Now let's gp back to th ehome page and select the plus sign thst says crreate a resource as we are about to go through thr steps involved in launhing a virtual machine.
 
-![image](https://github.com/user-attachments/assets/de1215b6-9695-463e-87dd-8da8d0385e29)
+<img width="1440" alt="Screenshot 2024-09-04 at 1 51 11 AM" src="https://github.com/user-attachments/assets/0cece361-54eb-42b5-8002-1f8a39f84728">
+
+Select Create under the virtual machine tab to get started
+
+<img width="1440" alt="Screenshot 2024-09-04 at 1 54 55 AM" src="https://github.com/user-attachments/assets/7a7e6853-9de5-4108-83cf-b13f1d25d377">
+
+The Subscription being used here is the Azure for Students which offers free credits so that i do not have to spend money for this, subcriptions are used for billing, a resource group is a collection of resources, like a little family as an entity, if the resource group is deleted all the resources in the resource group would be deleted as well, i will be creating a new resource group and choosing canada central for my region, I'll also only be choosing no infrazstructure redudancy required for this, availability zones are seperate physical locations, Security type would be Trusted Launch virtual machines ans the image being used here would be Ubuntu Pro 24.04 LTS -x64 Gen2
+
+<img width="1440" alt="Screenshot 2024-09-04 at 2 12 10 AM" src="https://github.com/user-attachments/assets/4c8a7912-3dab-4254-a654-8e6086a86692">
+
+Select the size of the Virtual machine you would like to use, i will be choosing ssh public key for the Authentication Type, in general try to avoid using the default of anything like passwords and etc
+
+<img width="1440" alt="Screenshot 2024-09-04 at 2 17 29 AM" src="https://github.com/user-attachments/assets/34730b2f-5de3-478e-871a-8cb1cf72b77e">
+
+
+
+
+
+
+
+
+
+
 
 
 
