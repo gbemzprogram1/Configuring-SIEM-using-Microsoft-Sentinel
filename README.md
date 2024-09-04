@@ -9,8 +9,8 @@ Let's first start with creating a Group as i want users added to the group to au
 
 On the home page of the azure portal search for Microsoft Entra ID
 
-![Screenshot 2024-09-04 at 1 07 02 AM 2](https://github.com/user-attachments/assets/e4a0de1b-ae25-4aea-84ea-452093886a90)
-<img width="1440" alt="Screenshot 2024-09-04 at 1 07 02 AM" src="https://github.com/user-attachments/assets/c9aae41c-269a-4d7f-8246-5c2922a226a7">
+<img width="1440" alt="Screenshot 2024-09-04 at 1 08 33 AM" src="https://github.com/user-attachments/assets/a8cdd3be-fdaa-426e-aba6-0cb2689ee40b">
+
 
 
 
