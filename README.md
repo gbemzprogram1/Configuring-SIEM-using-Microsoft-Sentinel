@@ -33,6 +33,13 @@ You would recieve a notification with a green tick mark once the group has been 
 
 <img width="1440" alt="Screenshot 2024-09-04 at 1 44 34 AM" src="https://github.com/user-attachments/assets/cb2aab85-7ddf-4e9a-81d2-c450e1722830">
 
+Now let's gp back to th ehome page and select the plus sign thst says crreate a resource as we are about to go through thr steps involved in launhing a virtual machine.
+
+![image](https://github.com/user-attachments/assets/de1215b6-9695-463e-87dd-8da8d0385e29)
+
+
+
+
 
 
 
