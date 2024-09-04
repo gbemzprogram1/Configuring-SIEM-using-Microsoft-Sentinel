@@ -63,6 +63,8 @@ You would have to name the key pair, for the inbound port rules i will be choosi
 
 <img width="1440" alt="Screenshot 2024-09-04 at 2 43 57 AM" src="https://github.com/user-attachments/assets/975bd271-d5fc-4b35-a463-c7cce7dc306a">
 
+<img width="1440" alt="Screenshot 2024-09-04 at 2 43 57 AM" src="https://github.com/user-attachments/assets/456b0c09-4940-4117-bff7-9e0f267b2006">
+
 
 
 
