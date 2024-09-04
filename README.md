@@ -47,7 +47,16 @@ The Subscription being used here is the Azure for Students which offers free cre
 
 Select the size of the Virtual machine you would like to use, i will be choosing ssh public key for the Authentication Type, in general try to avoid using the default of anything like passwords and etc
 
-<img width="1440" alt="Screenshot 2024-09-04 at 2 17 29 AM" src="https://github.com/user-attachments/assets/34730b2f-5de3-478e-871a-8cb1cf72b77e">
+<img width="1440" alt="Screenshot 2024-09-04 at 2 25 41 AM" src="https://github.com/user-attachments/assets/87291e0c-b9a3-462e-8408-a6c85bd2b0a7">
+
+
+You would have to name the key pair, for the inbound port rules i will be choosing ssh since i plan to connect to the vm using SSH.
+
+<img width="1440" alt="Screenshot 2024-09-04 at 2 28 09 AM" src="https://github.com/user-attachments/assets/91448548-e739-4f59-8c1a-ac82c67068e3">
+
+
+
+
 
 
 
